@@ -10,7 +10,7 @@ if(!isset($_SESSION['myusername']))
 // this code below also work
 /*if($_SESSION['myusername'] =='')
 {
-	header('Location: ../php/main_login.php');
+header('Location: ../php/main_login.php');
 }*/
 ?>
 <!DOCTYPE html>
