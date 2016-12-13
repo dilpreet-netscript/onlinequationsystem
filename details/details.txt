@@ -1,0 +1,25 @@
+
+user login:
+----------
+admin login:
+------------
+username:admin
+password:pass
+----------------
+username: user
+password: pass
+-----------------
+admin login:
+------------
+username:test
+password:pass
+--------------------
+admin login regional head:
+------------
+username:rh
+password:pass
+------------------
+admin login price manager:
+------------
+username:pm
+password:pass

@@ -1,0 +1,8 @@
+RewriteEngine On 
+#Look for the word "project3" folder followed by a slash 
+#RewriteRule   ^project3$   index.php
+#RewriteRule   .   /php/main_login.php
+#RewriteRule ^project3$ index.php [project3/php, project3/pages]
+
+#RewriteCond %{HTTP_HOST} ^project3.*$ [L]
+RewriteRule   ^project3.*$   index.php [L]
